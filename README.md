@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/python-selenium-blue)
 ![](https://img.shields.io/badge/Excel-green)
 ![](https://img.shields.io/badge/QGIS-orange)
-<br /> 🌱*BADS_Project* 
+<br /> 🌱*Business Analytics and Data Science (BADS) Project* 
 
 ![1](https://user-images.githubusercontent.com/90306227/183287198-0205a085-8f16-4cb1-8530-bb233c891f6c.png)
 <br /> ![7](https://user-images.githubusercontent.com/90306227/183287232-164b9b2e-2fe1-4700-b569-0691b2670beb.png)
